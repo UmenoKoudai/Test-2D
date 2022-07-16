@@ -14,14 +14,15 @@ TagManager:
   - Coin
   - PlayerRay
   - Rocket
+  - Ground
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Wall
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
