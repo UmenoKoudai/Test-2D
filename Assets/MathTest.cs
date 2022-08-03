@@ -88,6 +88,8 @@ public class MathTest : MonoBehaviour
         var Pow = Mathf.Pow(2f, 3f);
         Debug.Log($"Pow:{Pow}");
 
-
+        //•½•ûª
+        var Sqrt = Mathf.Sqrt(9);
+        Debug.Log($"Sqrt:{Sqrt}");
     }
 }
