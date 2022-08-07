@@ -16,7 +16,7 @@ public class MathTest : MonoBehaviour
 
         //2つの値を比較し大きいほうを返す
         //Mathf.Max(value1, value2・・・);
-        var Max = Mathf.Max(0.1f, 0.5f);
+        var Max = Mathf.Max(0.5f);
         Debug.Log($"Max:{Max}");
 
         //2つの値を比較し小さいほうを返す
