@@ -9,6 +9,11 @@ TagManager:
   - Bullet
   - Ground
   - Pickup
+  - CardTag
+  - Field
+  - Road
+  - Shell
+  - Star
   layers:
   - Default
   - TransparentFX
